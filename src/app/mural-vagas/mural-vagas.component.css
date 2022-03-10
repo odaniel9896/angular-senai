@@ -1,0 +1,9 @@
+.lista-vagas {
+  display: flex;
+  margin-top: 16px;
+  gap: 16px;
+}
+
+.lista-vagas div img {
+  height: 200px;
+}
